@@ -4,6 +4,7 @@
 ## 风险管理部门的组织架构(某大型互金公司)
 
 <img src="Risk-Management-Department.png"/>
+
 ## 产品形态
 个人信用贷款(APP)
 
