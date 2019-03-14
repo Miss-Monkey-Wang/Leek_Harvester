@@ -6,7 +6,7 @@
 <img src="Risk-Management-Department.png"/>
 
 ## 产品形态
-APP
+APP  
 包括: 个人信用贷款(无消费场景), 商品分期(有消费场景)
 
 额度:
