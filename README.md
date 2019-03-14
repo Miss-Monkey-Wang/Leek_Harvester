@@ -3,7 +3,7 @@
 
 ## 风险管理部门的组织架构(某大型互金公司)
 
-<img src="风险管理部门组织架构.png"/>
+<img src="risk-management-department.png"/>
 
 ### 策略分析部
 - 贷前策略组
