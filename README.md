@@ -21,7 +21,8 @@ APP
 
 ## 术语解释
 禁申期:  
-[vintage](https://www.quora.com/What-is-vintage-analysis-of-loans-and-how-does-it-help-model-credit-risk)
+[vintage](https://www.quora.com/What-is-vintage-analysis-of-loans-and-how-does-it-help-model-credit-risk)  
+[久期](https://baike.baidu.com/item/%E4%B9%85%E6%9C%9F/11046662)
 ## 贷前风控主要决策内容:
 1. 是否通过授信?
 2. 通过授信, [风险定价](https://zhuanlan.zhihu.com/p/31144345)?
