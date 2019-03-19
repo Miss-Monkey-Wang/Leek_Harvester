@@ -20,8 +20,8 @@ APP
 商品分期额度: \[1000, 10000]
 
 ## 术语解释
-禁申期:
-MOB
+禁申期:  
+[vintage](https://www.quora.com/What-is-vintage-analysis-of-loans-and-how-does-it-help-model-credit-risk)
 ## 贷前风控主要决策内容:
 1. 是否通过授信?
 2. 通过授信, 风险定价?
