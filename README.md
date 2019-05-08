@@ -1,7 +1,12 @@
 # Something About Risk Management
 对**互联网toC信贷业务风险管理**的一些总结  
+  
 风险管理的目标是在风险和收益之间找到最佳平衡点  
+  
 **RAROC**: 
+[Risk-Ajusted Return On Capital](https://www.investopedia.com/terms/r/raroc.asp)
+
+  
 ## 互联网金融贷款公司业务指标
    注册数,完件数,授信数,放款数,坏账率,审批效率
 
